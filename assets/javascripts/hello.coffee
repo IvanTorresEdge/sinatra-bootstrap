@@ -1,2 +1,2 @@
 jQuery ->
-  ($ '#content').html('<p>Hello World!</p>')
+  ($ '#content').html('<p>Featuring jQuery + Backbone.js + CoffeeScript + Haml + Sass</p>')
